@@ -289,11 +289,11 @@ The application uses shadcn/ui components built on Radix UI primitives:
 
 ## 📄 License
 
-This project is licensed under the ISC License.
+This project is licensed under the MIT License.
 
 ## 👥 Author
 
-Bhaskar Sisodiya
+Himanshu Yadav
 
 ## 🙏 Acknowledgments
 
